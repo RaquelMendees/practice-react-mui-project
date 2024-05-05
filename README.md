@@ -21,7 +21,7 @@ This React project uses custom components built with Material-UI to show various
 
 ## Project Setup
 
-1. **Clone the repository**: `git clone https://github.com/your-username/react-mui-components.git`
+1. **Clone the repository**: `git clone https://github.com/RaquelMendees/react-mui-components.git`
 2. **Navigate to the project directory**: `cd react-mui-components`
 3. **Install dependencies**: `npm install`
 4. **Start the development server**: `npm start`
